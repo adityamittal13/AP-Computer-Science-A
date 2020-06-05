@@ -22,4 +22,4 @@ public boolean isDifficult(){
             diffChanges++;
     }
     return (diffChanges >= 3);
-}
+} 
