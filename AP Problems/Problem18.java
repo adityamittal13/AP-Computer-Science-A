@@ -18,3 +18,4 @@ public static int dayOfWeek(int month, int day, int year){
     else
         return val%7;
 }
+ 
