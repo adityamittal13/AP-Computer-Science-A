@@ -1,6 +1,3 @@
-//AP ID: WX583W6U
-//Initials: A.M.
-
 import java.util.*;
 //APCSA Question 2, Part a)
 public static int bagApples(double targetWeight, double allowedVariation){
